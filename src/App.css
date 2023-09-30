@@ -118,14 +118,21 @@ button:disabled {
 .input__file{
   height: 114px;
   border: 1px dashed #D9D9D9;
-
   position: relative;
 }
 .upload__file--img{
   width: 21px;
   height: 26px ;
 }
+.file__container{
+  position: relative;
+}
 
+.file__container img{
+  position: absolute;
+    right: 0;
+    width: 100%;
+}
 
 
 /**modal css **/
