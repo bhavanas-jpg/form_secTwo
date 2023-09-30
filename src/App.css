@@ -133,9 +133,6 @@ button:disabled {
     right: 0;
     width: 100%;
 }
-
-
-/**modal css **/
 .overlay {
   position: fixed;
   top: 0;
